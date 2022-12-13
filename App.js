@@ -68,7 +68,6 @@ const styles = StyleSheet.create({
     width:'65%',
     flexDirection:'row',
     justifyContent: 'space-around',
-    marginTop: 30,
-    
+    marginTop: 30
   }
 });
